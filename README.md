@@ -26,3 +26,6 @@ Hinge loss is primarily used with Support Vector Machine (SVM) Classifiers with 
 ### Multi-Class Cross Entropy Loss:
 The multi-class cross-entropy loss is a generalization of the Binary Cross Entropy loss. The loss for input vector X_i and the corresponding one-hot encoded target vector Y_i.
 
+![mce jpg1](https://user-images.githubusercontent.com/72094895/126130949-88d28c44-3642-4471-bfc8-d8c09f0eaabd.jpg)
+- here the loss is caluclated omly from class where it brlongs
+- use softmax for probabilities 
